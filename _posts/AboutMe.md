@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Đôi điều về bản thân mình
+---
 #Một vài dòng tự giới thiệu bản thân
 Mình sinh ra và lớn lên ở Thụy Hải, Thái Thụy, Thái Bình, là một vùng quê nghèo miền biển, vào đúng năm Đất nước xóa bỏ cơ chế bao cấp.
 Sau khi học xong phổ thông mình thi vào Học viện Hải quân, một trường đại học trong hệ thống các trường đại học quân sự của Quân đội.

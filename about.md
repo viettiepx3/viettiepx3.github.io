@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nguyễn Việt Tiệp
+Giảng viên tại Học viện Hải quân
+Phone: 0989 810 151
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[viettiep1986@gmail.com](mailto:viettiep1986@gmail.com)

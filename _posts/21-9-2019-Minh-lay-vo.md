@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mình kết hôn
-categories: giadinh
 ---
 
      Mình lấy vợ vào 2011 chỉ 6 tháng sau khi ra trường, sau 6 năm quen biết, 2 năm yêu nhau.

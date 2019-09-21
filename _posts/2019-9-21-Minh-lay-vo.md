@@ -3,7 +3,7 @@ layout: post
 title: Mình kết hôn
 ---
 
-     Mình lấy vợ vào 2011 chỉ 6 tháng sau khi ra trường, sau 6 năm quen biết, 2 năm yêu nhau.
+Mình lấy vợ vào 2011 chỉ 6 tháng sau khi ra trường, sau 6 năm quen biết, 2 năm yêu nhau.
 Nhiều người bảo thế là sớm, mình cũng thấy sớm :)) Vậy những cái tốt và chưa tốt khi lấy vợ
 sớm là như thế nào?
 Tốt: 

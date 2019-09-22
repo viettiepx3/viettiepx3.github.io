@@ -6,6 +6,7 @@ title: Mình kết hôn
   Mình lấy vợ vào 2011 chỉ 6 tháng sau khi ra trường, sau 6 năm quen biết, 2 năm yêu nhau.
 Nhiều người bảo thế là sớm, mình cũng thấy sớm :)) Vậy những cái tốt và chưa tốt khi lấy vợ
 sớm là như thế nào?
+
   Tốt: 
   1. Ổn định sớm, bản thân mình sớm trở thành trụ cột gia đình, nên sẽ bớt giai đoạn ăn chơi,
 xả hơi sau khi tốt nghiệp đại học.
@@ -31,4 +32,4 @@ vợ mình ốm nghén ghê lắm, chẳng ăn uống được gì, mình thì b
 cũng hạn chế, được 2 tháng mình đành cho vợ ra Bắc để gia đình tiện chăm sóc.
   Đến khi con gái đầu của mình được 7 tháng tuổi, hai mẹ con mới đưa nhau vào Đồng Nai cùng mình.
 Sau đó thì vợ mình xin việc trong này. Giờ thì đứa thứ hai của mình cũng hơn 3 tuổi rồi, mọi chuyện
-rồi cũng ổn cả
+rồi cũng ổn cả.
